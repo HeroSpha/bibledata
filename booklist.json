@@ -1,0 +1,38 @@
+[
+  {
+    "name": "King James Version",
+    "code": "kjv",
+    "localUrl": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Amplified Version",
+    "code": "amp",
+    "localUrl": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "New King James Version",
+    "code": "kjv",
+    "localUrl": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bible in Basic English",
+    "code": "bbe",
+    "localUrl": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "American Standard Version",
+    "code": "asv",
+    "localUrl": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "American King James Version",
+    "code": "akjv",
+    "localUrl": "",
+    "imageUrl": ""
+  }
+]
