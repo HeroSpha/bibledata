@@ -1,4 +1,6 @@
-[
+{
+	"version":"1.0",
+	"bibleVersions": [
   {
     "name": "King James Version",
     "code": "kjv",
@@ -36,3 +38,4 @@
     "imageUrl": ""
   }
 ]
+}
